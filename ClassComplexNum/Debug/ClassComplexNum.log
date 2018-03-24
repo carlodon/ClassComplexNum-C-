@@ -1,0 +1,4 @@
+﻿  ClassComplexNum.cpp
+c:\users\влад\desktop\класс комплексное число\classcomplexnum\classcomplexnum\class.h(141): error C2597: недопустимая ссылка на нестатический член "Complex::imag"
+c:\users\влад\desktop\класс комплексное число\classcomplexnum\classcomplexnum\class.h(141): error C3867: "Complex::imag": нестандартный синтаксис; используйте "&", чтобы создать указатель на член
+c:\users\влад\desktop\класс комплексное число\classcomplexnum\classcomplexnum\class.h(143): error C2597: недопустимая ссылка на нестатический член "Complex::real"
